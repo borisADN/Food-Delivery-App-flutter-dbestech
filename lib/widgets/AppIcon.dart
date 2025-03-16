@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:food_app/utils/dimensions.dart';
-
 class AppIcon extends StatelessWidget {
   final double size;
   final Color backgroundColor;
